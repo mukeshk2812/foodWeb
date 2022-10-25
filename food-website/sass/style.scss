@@ -1,5 +1,3 @@
-//   --﷽--
-
 // import partial files
 @import "./partials/variable";
 @import "./partials/mixin";
@@ -182,7 +180,7 @@ section {
 // =====header about section=====
 .about {
   @include grid();
-  min-height: 50rem;
+  min-height: 51rem;
 
   .about-image {
     grid-column: 1 / 7;
